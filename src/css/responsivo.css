@@ -54,4 +54,8 @@
     .listagem .pokemon span {
         padding-right: 5px;
     }
+
+    #imagem-carvalho {
+        width: 0px;
+    }
 }
